@@ -23,12 +23,15 @@ I am passionate about building meaningful projects, learning cutting-edge techno
 ![Hono (Cloudflare Workers)](https://img.shields.io/badge/-Hono-FF7139?logo=cloudflare&logoColor=white)
 
 ### Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Mongoose ODM](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white)
 ![Prisma ORM](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
 ### Other Tools & Libraries
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-2E2E2E?logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FA0F00?logo=jupyter&logoColor=white)
+
 
 
 ## 📚 Areas of Interest
