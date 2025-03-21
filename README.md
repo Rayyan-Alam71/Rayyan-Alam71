@@ -5,7 +5,7 @@ I am currently pursuing a Bachelor of Technology in Computer Science Engineering
 I am passionate about building meaningful projects, learning cutting-edge technologies, and continuously improving my skills.
 
 # 💻 Skills and Technologies
-## Programming Languages: Java, JavaScript
+### Programming Languages: Java, JavaScript
 ## Frontend: React, HTML, CSS, Tailwind CSS, NextJS
 ## Backend: Node.js, Express, Hono (Cloudflare Workers)
 Database: Prisma ORM, Firebase
