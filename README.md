@@ -13,6 +13,7 @@ I’m passionate about building meaningful projects, learning cutting-edge techn
 ### 👨‍💻 Programming Languages  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ### 🎨 Frontend  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -28,20 +29,26 @@ I’m passionate about building meaningful projects, learning cutting-edge techn
 
 ### 🗄️ Database  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 ![Mongoose ODM](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white)
 ![Prisma ORM](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
 
 ### 🧩 Other Tools & Libraries  
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-2E2E2E?logo=python&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FA0F00?logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+---
+## 📈 GitHub Contributions  
+![Rayyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rayyan-Alam71&show_icons=true&theme=github_dark)  
+![Rayyan's GitHub Streak](https://streak-stats.demolab.com?user=Rayyan-Alam71&theme=github-dark&hide_border=false)  
+[![Rayyan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rayyan-Alam71&theme=github-compact)](https://github.com/Rayyan-Alam71)
 
 ---
 
 ## 📚 Areas of Interest  
 - Full-Stack Web Development  
-- Generative AI & Agentic Applications  
-- Trading Bots & Automation  
+- Generative AI & Agentic Applications   
 - SaaS Product Development  
 
 ---
@@ -54,17 +61,12 @@ I’m passionate about building meaningful projects, learning cutting-edge techn
 ---
 
 ## 🧩 Recent Projects  
-- 📝 **Real-time Collaborative Code Editor**  
 - 🤖 **AI Chatbot Interface using Gemini API**  
-- ✍️ **Serverless Blog Backend using Cloudflare Workers + Prisma**  
+- ✍️ **Serverless Blog Backend using Cloudflare Workers + Prisma**
+- 📝 **DevFusion - A real-time code collaboration platform** 
+- 💥 **ReviewNest - A community-driven book review application** 
     
 
----
-
-## 🎯 My Goals  
-- Build & deploy innovative AI-powered applications  
-- Develop a strong foundation in machine learning and trading automation  
-- Collaborate with like-minded developers and creators  
 
 ---
 
