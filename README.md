@@ -41,8 +41,7 @@ I’m passionate about building meaningful projects, learning cutting-edge techn
 ---
 ## 📈 GitHub Contributions  
 ![Rayyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rayyan-Alam71&show_icons=true&theme=github_dark)  
-![Rayyan's GitHub Streak](https://streak-stats.demolab.com?user=Rayyan-Alam71&theme=github-dark&hide_border=false)  
-[![Rayyan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rayyan-Alam71&theme=github-compact)](https://github.com/Rayyan-Alam71)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rayyan-Alam71)](https://git.io/streak-stats)  
 
 ---
 
