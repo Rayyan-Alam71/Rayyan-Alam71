@@ -3,7 +3,7 @@
 ---
 
 ## 🚀 About Me  
-I’m currently pursuing a **Bachelor of Technology in Computer Science Engineering (2nd year)**.  
+I’m currently pursuing a **Bachelor of Technology in Computer Science Engineering (3rd year)**.  
 I’m passionate about building meaningful projects, learning cutting-edge technologies, and continuously leveling up my skills.  
 
 ---
@@ -37,12 +37,6 @@ I’m passionate about building meaningful projects, learning cutting-edge techn
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-2E2E2E?logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-
----
-## 📈 GitHub Contributions  
-![Rayyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rayyan-Alam71&show_icons=true&theme=github_dark)  
-![Rayyan's GitHub Streak](https://streak-stats.demolab.com?user=Rayyan-Alam71&theme=github-dark&hide_border=false)  
-  
 
 ---
 
