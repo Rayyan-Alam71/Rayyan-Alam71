@@ -6,6 +6,7 @@
 I’m currently pursuing a **Bachelor of Technology in Computer Science Engineering (3rd year)**.  
 I’m passionate about building meaningful projects, learning cutting-edge technologies, and continuously leveling up my skills.  
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Rayyan-Alam71.Rayyan-Alam71)
 ---
 
 ## 🛠️ My Tech Stack  
