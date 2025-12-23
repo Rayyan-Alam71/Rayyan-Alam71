@@ -6,7 +6,6 @@
 I’m currently pursuing a **Bachelor of Technology in Computer Science Engineering (3rd year)**.  
 I’m passionate about building meaningful projects, learning cutting-edge technologies, and continuously leveling up my skills.  
 
-Resume -> https://drive.google.com/file/d/1z5UHB0SIVToQsXCUa2-fFXlDJ7_aEzR1/view?usp=drivesdk
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Rayyan-Alam71.Rayyan-Alam71)
 ---
 
